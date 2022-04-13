@@ -13,7 +13,11 @@ The link to the book on Amazon is the following : https://www.amazon.com/Course-
 
 ### Chapter 1 Basic Notions of Probability
 
+It reviews the elementary notions of probability theory needed along the way. This offers sufficient opportunity to get acquainted with basic commands in Python.
+
 ### Chapter 2 Gaussian Processes
+
+The chapter introduces the notion of Gaussian processes, based on the notion of Gaussian vectors. This is where we learn the Cholesky decomposition to express jointly Gaussian random variables in terms of IID standard Gaussians. This concept is very useful to numerically sample a plethora of Gaussian processes, such as Brownian motion, the Ornstein-Uhlenbeck process, and fractional Brownian motion.
 
 ### Chapter 3 Properties of Brownian Motion
 

@@ -21,9 +21,15 @@ The chapter introduces the notion of Gaussian processes, based on the notion of 
 
 ### Chapter 3 Properties of Brownian Motion
 
+This chapter studies the properties of Brownian motion in more detail. In particular it introduces the notion of quadratic variation that is central to Itô calculus. The Poisson process is also presented as a point of comparison with Brownian motion.
+
 ### Chapter 4 Martingales
 
+The class of stochastic processes known as martingales is introduced here. It is built on the conditional expectation, which is defined as a projection in the space of random variables with finite variance. Elementary martingales, such as geometric Brownian motion, are given as examples. One of the powers of Itô calculus is to give a systematic way to construct martingales using Brownian motion. Martingales are useful, as some probabilistic computations are simplified in this framework. For example, solving the gambler’s ruin problem using martingales is illustrated.
+
 ### Chapter 5 Itô Calculus
+
+The Itô integral is constructed as a limit of a martingale transform of Brownian motion. The martingale transform is analogous to Riemann sums in standard calculus. Itô’s formula, which can be seen as the fundamental theorem of Itô calculus, is also numerically verified. This is where we start to explore the beautiful interplay between partial differential equations (PDE) and stochastic processes.
 
 ### Chapter 6 Multivariate Itô Calculus
 

@@ -33,6 +33,8 @@ The Itô integral is constructed as a limit of a martingale transform of Brownia
 
 ### Chapter 6 Multivariate Itô Calculus
 
+Here, I worked on generalized Itô's formula to functions of several Brownian motions wich unleaches the full power of Itô calculus. Then an exciting problem called the Dirichlet problem is solved using two important applications of multivariate calculus (the recurrence and transience of Brownian motions in d-dimensions). This can be seen as a generalization of the gambler's ruin problem to higher dimensions.
+
 ### Chapter 7 Itô Processes and Stochastic Differential Equations
 
 ### Chapter 8 The Markov Property

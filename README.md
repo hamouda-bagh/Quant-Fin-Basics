@@ -42,6 +42,10 @@ Then I focused on a class of Itô processes called diffusions whch are easier to
 
 ### Chapter 8 The Markov Property
 
+The Markov property is tested on the diffusions on this chapter and then we implement a class of processes called Markov processes wich contains the Brownian motions.
+The stopping times are also being used to test strong Markov property.
+Lastly, we work on 2 PDE problems: the Kolmogorov equations and the Feynman-Kac formula.
+
 ### Chapter 9 Change of Probability
 
 ### Chapter 10 Applications to Mathematical Finance

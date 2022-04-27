@@ -37,6 +37,9 @@ Here, I worked on generalized Itô's formula to functions of several Brownian mo
 
 ### Chapter 7 Itô Processes and Stochastic Differential Equations
 
+Implementation of Stochastic Differential Equations and an extended stochatic processes class called Itô Processes with generalization to the multivariate calculus.
+Then I focused on a class of Itô processes called diffusions whch are easier to sample numerically. We test in these numerical projects differents unique examples.
+
 ### Chapter 8 The Markov Property
 
 ### Chapter 9 Change of Probability
